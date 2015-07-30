@@ -14,13 +14,13 @@ url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Zebula Sampedro'
+  url:            https://github.com/ResearchComputing
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/zebulasampedro/zebulasampedro.github.io
