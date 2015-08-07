@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            brkpnt.
 tagline:          "Where I'm At"
-description:      'A modest collection of <strong>code</strong>, tutorials and <strong>lessons learned</strong> regarding <strong>HPC and the modern web</strong>.'
+description:      'A modest collection of <strong>code</strong>, lessons learned and <strong>tutorials</strong> regarding <strong>HPC</strong> and the <strong>modern web</strong>.'
 url:              http://zebulasampedro.github.io/
 baseurl:          /
 
