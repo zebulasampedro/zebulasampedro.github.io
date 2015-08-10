@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example content
+summary: Demo content for blog.
+tags: test,intro,demo
 ---
 
 
