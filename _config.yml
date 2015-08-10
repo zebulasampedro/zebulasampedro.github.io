@@ -17,10 +17,10 @@ author:
   name:           'Zebula Sampedro'
   url:            https://github.com/ResearchComputing
 
-paginate:         1
+paginate:         15
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/zebulasampedro/zebulasampedro.github.io
+  repo:           https://github.com/zebulasampedro
