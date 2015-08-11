@@ -1,5 +1,9 @@
-.post-tags {
+.post-summary {
   display: block;
   margin-top: -.5rem;
   margin-bottom: .5rem;
+}
+
+.post-summary-highlt {
+  color: #90a959;
 }
